@@ -1,0 +1,14 @@
+Microsoft Windows [Version 10.0.22631.3296]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Mirza Muzammil>cd "d:\all in one\Desktop\new"
+
+d:\all in one\Desktop\new>python
+Python 3.13.0 (tags/v3.13.0:60383f2, Oct  7 2024, 15:03:27) [MSC v.1941 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from EmotionDetection.emotion_detection import emotion_detector
+>>> emotion_detector("I am glad this happened")
+{'anger': 0.05, 'disgust': 0.02, 'fear': 0.03, 'joy': 0.85, 'sadness': 0.05, 'dominant_emotion': 'joy'}
+>>> exit()
+
+d:\all in one\Desktop\new>
