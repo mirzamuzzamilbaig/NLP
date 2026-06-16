@@ -1,4 +1,4 @@
-# IBM Watson NLP - Emotion Detector
+# IBM Watson NLP - Emotion Detector by Mirza Muzammil
 
 **Developer:** Mirza Muzammil  
 **Course Final Project:** Developing AI Applications with Python and Flask
