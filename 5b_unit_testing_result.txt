@@ -1,0 +1,13 @@
+Microsoft Windows [Version 10.0.22631.3296]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Mirza Muzammil>cd "d:\all in one\Desktop\new"
+
+d:\all in one\Desktop\new>python test_emotion_detection.py
+.
+----------------------------------------------------------------------
+Ran 1 test in 20.128s
+
+OK
+
+d:\all in one\Desktop\new>
