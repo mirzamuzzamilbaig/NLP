@@ -1,9 +1,10 @@
-# IBM Watson NLP - Emotion Detector by Mirza Muzammil
+# Final Project - IBM Watson NLP - Emotion Detector
 
+**Repository Name:** oaqjp-final-project-emb-ai  
 **Developer:** Mirza Muzammil  
 **Course Final Project:** Developing AI Applications with Python and Flask
 
-This repository contains the completed final project for the **Emotion Detector** application. The application utilizes a Watson NLP model (via Skills Network API) to analyze text and detect the dominant emotion along with scores for anger, disgust, fear, joy, and sadness.
+This repository contains the completed **Final Project** for the **Emotion Detector** application. The application utilizes a Watson NLP model (via Skills Network API) to analyze text and detect the dominant emotion along with scores for anger, disgust, fear, joy, and sadness.
 
 ## Project Structure
 
